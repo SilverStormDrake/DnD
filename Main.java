@@ -8,6 +8,5 @@ class Main {
         Vander.lvlup();
         System.out.println(Vander.toString());
 
-        System.out.println((15-10)/2);
     }
   }
